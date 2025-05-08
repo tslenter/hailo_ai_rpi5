@@ -1,6 +1,10 @@
-## hailo_ai_rpi5
+# Hailo basic commands in combination with duo PCI-E 3.0, NVME, Ai Hailo
 ```
 Manual, bugs, and fixes
+Selected hardware:
+PCI-E 3.0 card: Seeed studio pcie 3.0 naar dual m.2 hat
+NVME: Non-Volatile memory controller: Micron Technology Inc 2400 NVMe SSD (DRAM-less) (rev 03)
+Hailo Ai card: Hailo Technologies Ltd. Hailo-8 AI Processor (rev 01)
 ```
 
 ## Install all software
